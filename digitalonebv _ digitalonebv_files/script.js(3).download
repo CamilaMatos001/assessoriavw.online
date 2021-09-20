@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'bs-4',
+          componentName:'@widget/LAYOUT/bs-DynamicFontScaler-Component',
+          props:props,
+          context:context,
+          contextKey:'context-bs-1',
+          radpack:"@widget/LAYOUT/bs-DynamicFontScaler-Component"
+        });
+      })({"font":"primary","text":" Negocie com um atendente em tempo real, Ligue Já: (11)3415-7706","containerId":"tagline-container-218","targetId":"dynamic-tagline-219","fontSizes":["xxxlarge","xxlarge","xlarge"],"maxLines":4,"style":{"display":"inline-block","maxWidth":"100%","whiteSpace":"pre-line"},"widgetId":"115570b3-2212-47c5-be88-706ed0d0934d","section":"overlay","category":"accent","locale":"pt-BR","renderMode":"PUBLISH"},{"widgetId":"115570b3-2212-47c5-be88-706ed0d0934d","widgetType":"HEADER","widgetPreset":"header9","section":"overlay","category":"accent","fontSize":"medium","fontFamily":"primary","group":"Hero","groupType":"Default","websiteThemeOverrides":{},"widgetThemeOverrides":{}});
